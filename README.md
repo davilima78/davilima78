@@ -3,4 +3,4 @@
 - I'm developing in the JavaScript and C+ language
 - I use this space to organize and share my projects developed.
   ## You can contact me 📫
-  davi.lima0660@gmail.com
+  Email: davi.lima0660@gmail.com
